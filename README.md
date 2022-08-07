@@ -8,8 +8,11 @@ PHP: ^7.1;
 
 Após baixar o projeto para o seu local, precisará executar alguns passos: 
 
+- Execute o comando composer update;
 - Configurar o MySql com usuário e senha;
 - Criar um schemas com o nome de api_innovation;
 - Executar o comando php artisan migrate:fresh --seed;
 
 Agora é só iniciar o projeto com comando php artisan serve.
+
+<span style="color: red, font-widht: bold">OBS: todos os comandos precisam ser executados dentro da pasta do projeto! </span>
