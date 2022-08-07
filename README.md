@@ -1,4 +1,4 @@
-```html
+
 <h1>API em Laravel </h1>
 
 <p> Informações básicas para executar a api </p>
@@ -17,4 +17,3 @@ Após baixar o projeto para o seu local, precisará executar alguns passos:
 Agora é só iniciar o projeto com comando php artisan serve.
 
 <span style="color: #ff000;">OBS: todos os comandos precisam ser executados dentro da pasta do projeto! </span>
-```
